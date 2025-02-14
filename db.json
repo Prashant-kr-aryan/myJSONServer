@@ -18,35 +18,5 @@
         "name": "Deepika Sharma",
         "email": "deepika.sharma@example.com",
         "city": "Kolkata"
-    },
-    {
-        "name": "Suresh Reddy",
-        "email": "suresh.reddy@example.com",
-        "city": "Hyderabad"
-    },
-    {
-        "name": "Anita Desai",
-        "email": "anita.desai@example.com",
-        "city": "Pune"
-    },
-    {
-        "name": "Vijay Kumar",
-        "email": "vijay.kumar@example.com",
-        "city": "Chennai"
-    },
-    {
-        "name": "Neeta Ambani",
-        "email": "neeta.ambani@example.com",
-        "city": "Mumbai"
-    },
-    {
-        "name": "Manpreet Kaur",
-        "email": "manpreet.kaur@example.com",
-        "city": "Amritsar"
-    },
-    {
-        "name": "Sanjay Gupta",
-        "email": "sanjay.gupta@example.com",
-        "city": "Bengaluru"
     }
 ]
